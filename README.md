@@ -2,9 +2,7 @@
 
 **ShopEZ** is a full-stack e-commerce application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). It allows customers to browse products, register/login, add items to cart, and place orders.
 
-## 🌐 Live Demo
 
-👉 [View Site on Vercel](https://shopez-lokeshpondara.vercel.app)
 
 ## 📦 Tech Stack
 
